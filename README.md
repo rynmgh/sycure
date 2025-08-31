@@ -1,0 +1,2 @@
+# sycure
+Sycure Password Manager
